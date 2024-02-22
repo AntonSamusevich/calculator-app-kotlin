@@ -1,1 +1,3 @@
-# calculator-app-kotlin
+# calculator-app-kotlin  
+Антонович, Горельский, Натяженко, Самусевич  
+Группа 110901 
